@@ -1,5 +1,15 @@
+ ![](./js.png)
+ 
+ 
+ # What is Hosting in JS?
+ ## In JavaScript, Hoisting is the default behavior of moving all the declarations at the top of the scope before code execution. Basically, it gives us an advantage that no matter where functions and variables are declared, they are moved to the top of their scope regardless of whether their scope is global or local.
+ 
+ 
+ 
+ 
  <div style="margin: auto; width: 100%;">
-    <h1 style="text-align: center; font-size: 40px;">Hoist ing in java script</h1>
+    <h1 style="text-align: center; font-size: 40px;">Hoisting in javascript</h1>
+
 
  <p style="padding-left: 30px; font-size: 20px; padding-top: ;">Hoisting isa JavaScript mechanism where variables and function <br>
         declarations are moved to the top of their scope before code <br>
@@ -8,8 +18,6 @@
         Hoisting in JavaScript isa behavior in which a function or a variable
         can be used before declaration.</p>
 <img style=" margin-top: 20px;" src="./Снимок экрана 2023-11-17 155512.png" alt="">
-
-
 
 
 </div>
